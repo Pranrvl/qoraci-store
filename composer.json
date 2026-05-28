@@ -1,0 +1,7 @@
+{
+    "name": "qoraci/store",
+    "description": "Qoraci Store - Premium Clothing Brand",
+    "require": {
+        "php": ">=8.0"
+    }
+}
